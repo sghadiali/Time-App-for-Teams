@@ -1,8 +1,8 @@
-﻿# EchoBot1
+﻿# TeamsApp
 
-Bot Framework v4 echo bot sample.
+Bot Framework v4 echo bot sample. 
 
-This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input from the user and echoes it back.
+This bot has been created using [Bot Framework](https://dev.botframework.com), it shows how to create a simple bot that accepts input of any city name from the user and echoes back the time of the city using google geocoding API.
 
 ## Prerequisites
 
@@ -15,11 +15,11 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
 ## To try this sample
 
-- In a terminal, navigate to `EchoBot1`
+- In a terminal, navigate to `TeamsApp`
 
     ```bash
     # change into project folder
-    cd # EchoBot1
+    cd # TeamsApp
     ```
 
 - Run the bot from a terminal or from Visual Studio, choose option A or B.
@@ -35,8 +35,8 @@ This bot has been created using [Bot Framework](https://dev.botframework.com), i
 
   - Launch Visual Studio
   - File -> Open -> Project/Solution
-  - Navigate to `EchoBot1` folder
-  - Select `EchoBot1.csproj` file
+  - Navigate to `TeamsApp` folder
+  - Select `TeamsApp.csproj` file
   - Press `F5` to run the project
 
 ## Testing the bot using Bot Framework Emulator
